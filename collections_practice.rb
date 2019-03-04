@@ -49,10 +49,10 @@ def organize_schools(schools)
         else
           by_location[location] << school
         end
-      end
+      
     end
     by_location
 end
-end 
+
   
 end
